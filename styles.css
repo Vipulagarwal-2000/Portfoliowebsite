@@ -1,4 +1,4 @@
-/* Reset some default styling */
+
 body, h1, h2, p, ul, li {
     margin: 0;
     padding: 0;
@@ -92,7 +92,7 @@ section {
     font-size: large;
 }
 
-/* Customize About Me section */
+
 .about-container {
     display: flex;
     justify-content: space-between;
@@ -135,6 +135,6 @@ section {
 .resume img {
     vertical-align: middle;
     margin-right: 2px;
-    width: 70%; /* Adjust the width to your preference */
-    height: 70%; /* Adjust the height to your preference */
+    width: 70%; 
+    height: 70%;
 }
